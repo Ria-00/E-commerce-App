@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+table, th, td {
+  border: 1px solid black;
+}
+button{
+	padding:20px 40px;
+	margin:50px;
+	font-size: 20px;
+	background-color: #FEF5AC;
+	color:#25316D;
+}
+
+button:hover{
+	background-color: #5F6F94;
+	color:#FEF5AC;
+	
+}
